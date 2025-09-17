@@ -1,0 +1,10 @@
+streamlit
+pandas
+librosa
+pydub
+soundfile
+numpy
+noisereduce
+openai
+langchain
+langchain-openai
